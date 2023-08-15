@@ -1,0 +1,15 @@
+{
+  "name": "speech-compression",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bingmada",
+  "license": "ISC",
+  "dependencies": {
+    "python-shell": "^5.0.0"
+  },
+  "devDependencies": {}
+}
