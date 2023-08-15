@@ -27,7 +27,7 @@ compression(text, { removeSpaces: false }).then(res => {
 ## Options
 |  字段  | 字段类型 | 字段说明 | 默认值 | 可选值|
 | ------- | ----- | ----- |----- |----- |
-| language  | String  | 语言类型 | 'english' | 'english'、'chinese'、'spanish'|
+| language  | String  | 语言类型 | 'english' | 'english'、'chinese'|
 | removeSpaces  | Boolean  | 删除空白字符 | true|true、false|
 | removeStopwords  | Boolean |删除停止语 | true|true、false|
 | removePunctuation  | Boolean |删除标点符号|true|true、false|
